@@ -1,6 +1,8 @@
-# Tindater
+# Tindater 
+[노션 페이지](https://global-giraffe-ef7.notion.site/Chapter-5-Tindater-895beec7e02a4b32b519983467eb5967)
 
 - Tinder 클론코딩 협업 프로젝트
+
 
 ## 프로젝트 팀원
 
